@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="e" type="CLASS" />
+      <mapping pattern="1" type="CLASS" />
+      <mapping pattern="GeometryTester" type="PLAIN_TEXT" />
+      <mapping pattern="ert" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
